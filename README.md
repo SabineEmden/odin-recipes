@@ -1,6 +1,6 @@
 # Project: Recipes
 
-This project for the section HTML Foundations in the Foundations Course of The Odin Project uses HTML only without any styling with CSS, which will be added at a later time.
+This project for HTML Foundations in The Odin Project Foundations Course uses HTML only without any styling with CSS, which will be added at a later time.
 
 Skills Used:
 - basic HTML

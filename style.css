@@ -1,0 +1,48 @@
+body {
+  background-color: #d8ecf3;
+  color: #2d1606;
+  font-family: Verdana, Tahoma, sans-serif;
+  padding: 32px;
+}
+
+h1 {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 46px;
+  margin: 0;
+}
+
+h2 {
+  display: inline-block;
+  background-color: gold;
+  margin: 8px 0;
+  padding: 8px 16px;
+}
+
+img {
+  display: inline-block;
+  margin: 24px 0;
+}
+
+.intro {
+  padding: 0 16px;
+  margin-bottom: 32px;
+}
+
+.source {
+  font-style: italic;
+}
+
+.recipe {
+  background-color: white;
+  border-radius: 8px;
+  padding: 8px 16px;
+  margin-bottom: 32px;
+}
+
+ul, ol {
+  margin: 8px 0 16px;
+}
+
+.nav {
+  padding: 0 16px;
+}

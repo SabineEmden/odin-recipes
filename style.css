@@ -9,18 +9,32 @@ h1 {
   font-family: Georgia, 'Times New Roman', serif;
   font-size: 40px;
   margin: 0;
+  padding-bottom: 8px;
+  text-decoration: underline;
+  text-decoration-color: gold;
 }
 
 h2 {
   display: inline-block;
   background-color: gold;
+  
+}
+
+h2 {
   margin: 8px 0;
   padding: 8px 16px;
 }
 
+h3, h4 {
+  margin: 8px 0;
+  padding: 0 16px;
+}
+
 img {
+  background-color: gold;
   display: inline-block;
   margin: 24px 0;
+  padding-left: 16px;
 }
 
 .intro {
@@ -39,8 +53,12 @@ img {
   margin-bottom: 32px;
 }
 
-ul, ol {
+ul, ol, p {
   margin: 8px 0 16px;
+}
+
+p {
+  padding-left: 16px;
 }
 
 .nav {

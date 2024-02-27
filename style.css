@@ -15,10 +15,11 @@ h1 {
 }
 
 h2 {
-  display: inline-block;
+  /* display: inline-block; */
   background-color: gold;
   margin: 8px 0;
   padding: 8px 16px;
+  width: fit-content;
 }
 
 h3, h4 {

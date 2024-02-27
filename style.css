@@ -64,7 +64,6 @@ p {
 
 .recipes li {
   background-color: gold;
-  /* display: inline-block; */
   margin: 24px 0;
   padding: 8px 16px;
   width: fit-content;

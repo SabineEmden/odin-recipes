@@ -17,10 +17,6 @@ h1 {
 h2 {
   display: inline-block;
   background-color: gold;
-  
-}
-
-h2 {
   margin: 8px 0;
   padding: 8px 16px;
 }
@@ -46,7 +42,7 @@ img {
   font-style: italic;
 }
 
-.recipe {
+.container {
   background-color: white;
   border-radius: 8px;
   padding: 8px 16px;
@@ -61,6 +57,25 @@ p {
   padding-left: 16px;
 }
 
+.recipes {
+  list-style: none;
+  padding: 0;
+}
+
+.recipes li {
+  background-color: gold;
+  /* display: inline-block; */
+  margin: 24px 0;
+  padding: 8px 16px;
+  width: fit-content;
+}
+
+li a {
+  color: #2d1606;
+  font-size: 20px;
+  text-decoration: none;
+}
+
 .nav {
-  padding: 0 16px;
+  padding: 0 32px;
 }
